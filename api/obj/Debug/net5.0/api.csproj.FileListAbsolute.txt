@@ -1,0 +1,134 @@
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\appsettings.json
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\api.exe
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\api.deps.json
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\api.runtimeconfig.json
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\api.runtimeconfig.dev.json
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\api.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\ref\api.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\api.pdb
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\core.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\infrastructure.dll
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\infrastructure.pdb
+C:\Users\Farshad\Desktop\Shop\api\bin\Debug\net5.0\core.pdb
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\api.csproj.AssemblyReference.cache
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\api.AssemblyInfoInputs.cache
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\api.AssemblyInfo.cs
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\api.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\staticwebassets\api.StaticWebAssets.Manifest.cache
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\staticwebassets\api.StaticWebAssets.xml
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\scopedcss\bundle\api.styles.css
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\api.RazorTargetAssemblyInfo.cache
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\api.csproj.CopyComplete
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\api.dll
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\ref\api.dll
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\api.pdb
+C:\Users\Farshad\Desktop\Shop\api\obj\Debug\net5.0\api.genruntimeconfig.cache
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\appsettings.Development.json
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\appsettings.json
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\api.exe
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\api.deps.json
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\api.runtimeconfig.json
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\api.runtimeconfig.dev.json
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\api.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\ref\api.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\api.pdb
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\AutoMapper.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\System.Runtime.Caching.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\core.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\infrastructure.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\infrastructure.pdb
+c:\Users\Farshad\Desktop\Shop - Copy\api\bin\Debug\net5.0\core.pdb
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\api.csproj.AssemblyReference.cache
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\api.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\api.AssemblyInfoInputs.cache
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\api.AssemblyInfo.cs
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\api.csproj.CoreCompileInputs.cache
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\api.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\api.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\staticwebassets\api.StaticWebAssets.Manifest.cache
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\staticwebassets\api.StaticWebAssets.xml
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\scopedcss\bundle\api.styles.css
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\api.RazorTargetAssemblyInfo.cache
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\api.csproj.CopyComplete
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\api.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\ref\api.dll
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\api.pdb
+c:\Users\Farshad\Desktop\Shop - Copy\api\obj\Debug\net5.0\api.genruntimeconfig.cache
