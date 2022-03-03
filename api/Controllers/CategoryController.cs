@@ -17,74 +17,75 @@ namespace api.Controllers
         private readonly ICategory icategory;
         public CategoryController(ICategory Icategory)
         {
-            icategory=Icategory;
+            icategory = Icategory;
         }
         [HttpPost]
-        public bool AddCategory(MCategory category)
+        public IActionResult AddCategory(MCategory category)
         {
             if (ModelState.IsValid)
             {
                 icategory.AddCategory(category);
-                return true;
+                return Ok("عملیات با موفقیت انجام شد");
             }
-            else
-            {
-                return false;
-            }
-            
+            return BadRequest();
+
         }
         [HttpPost]
-        public string DeleteCategory(int id)
+        public IActionResult DeleteCategory(int id)
         {
-            var result =icategory.DeleteCategory(id);
+            var result = icategory.DeleteCategory(id);
             if (result)
             {
-                return "عملیات با موفقیت انجام شد";
+                return Ok("عملیات با موفقیت انجام شد");
             }
             else
             {
-                return "این آیدی وجود ندارد";
+                return Ok("این آیدی وجود ندارد!");
             }
         }
 
         [HttpGet]
-        public List<MCategory> ShowActiveStatus()
+        public IActionResult ShowActiveStatus()
         {
-            return icategory.ShowActiveStatus();
+            return Ok(icategory.ShowActiveStatus());
         }
 
 
         [HttpPost]
-        public List<MCategory> ShowChildCategory(int id)
+        public IActionResult ShowChildCategory(int id)
         {
-            return icategory.ShowChildCategory(id);
+            return Ok(icategory.ShowChildCategory(id));
         }
 
         [HttpGet]
-        public List<MCategory> ShowDeActiveStatus()
+        public IActionResult ShowDeActiveStatus()
         {
-            return icategory.ShowDeActiveStatus();
+            return Ok(icategory.ShowDeActiveStatus());
         }
 
         [HttpPost]
-        public MCategory ShowParentCategory(int id)
+        public IActionResult ShowParentCategory(int id)
         {
-            return icategory.ShowParentCategory(id);
+            return Ok(icategory.ShowParentCategory(id));
         }
 
 
         [HttpPost]
-        public string UpdateCategory(MCategory category)
+        public IActionResult UpdateCategory(MCategory category)
         {
-            var result =icategory.UpdateCategory(category);
-            if (result)
+            if (ModelState.IsValid)
             {
-                return "عملیات با موفقیت انجام شد";
+                var result = icategory.UpdateCategory(category);
+                if (result)
+                {
+                    return Ok("عملیات با موفقیت انجام شد");
+                }
+                else
+                {
+                    return Ok("این آیدی وجود ندارد");
+                }
             }
-            else
-            {
-                return "این آیدی وجود ندارد";
-            }
+            return BadRequest();
         }
     }
 }

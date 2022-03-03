@@ -32,7 +32,6 @@ namespace infrastructure.Repository
                 Status = Product.Status,
                 IdColor = Product.IdColor,
                 IdSize = Product.IdSize,
-                IdMoreImage = Product.IdMoreImage,
                 IdCategory = Product.IdCategory,
                 discount = Product.discount,
                 Type = Product.Type
@@ -75,7 +74,6 @@ namespace infrastructure.Repository
                         Status = item.Status,
                         IdColor = item.IdColor,
                         IdSize = item.IdSize,
-                        IdMoreImage = item.IdMoreImage,
                         IdCategory = item.IdCategory,
                         discount = item.discount,
                         Type = item.Type
@@ -92,8 +90,8 @@ namespace infrastructure.Repository
 
         public bool UpdateProduct(MProduct Product)
         {
-           var Select = context.Products.SingleOrDefault(c=>c.Id==Product.Id);
-            if (Select!=null)
+            var Select = context.Products.SingleOrDefault(c => c.Id == Product.Id);
+            if (Select != null)
             {
                 Select.Name = Product.Name;
                 Select.price = Product.price;
@@ -103,12 +101,12 @@ namespace infrastructure.Repository
                 Select.Status = Product.Status;
                 Select.IdColor = Product.IdColor;
                 Select.IdSize = Product.IdSize;
-                Select.IdMoreImage = Product.IdMoreImage;
                 Select.IdCategory = Product.IdCategory;
                 Select.discount = Product.discount;
                 Select.Type = Product.Type;
-                
+
                 context.Update(Select);
+                context.SaveChanges();
                 return true;
             }
             else
@@ -116,5 +114,99 @@ namespace infrastructure.Repository
                 return false;
             }
         }
+
+
+        public MProduct DetailsProduct(int IdProduct)
+        {
+            var select = context.Products.SingleOrDefault(c => c.Id == IdProduct);
+            if (select != null)
+            {
+                var c = iMap.Map<MProduct>(select);
+                // MProduct p = new MProduct()
+                // {
+                //     Name = item.Name,
+                //     price = item.price,
+                //     Count = item.Count,
+                //     discription = item.discription,
+                //     MainImage = item.MainImage,
+                //     Status = item.Status,
+                //     IdColor = item.IdColor,
+                //     IdSize = item.IdSize,
+                //     IdCategory = item.IdCategory,
+                //     discount = item.discount,
+                //     Type = item.Type
+                // };
+                return c;
+            }
+            else
+            {
+                return null;
+            }
+        }
+        public List<MProduct> ShowProductCategory(int IdCategory)
+        {
+            var select = context.Products.Where(c => c.IdCategory == IdCategory && c.Status == true).ToList();
+            if (select != null)
+            {
+                List<MProduct> product = new List<MProduct>();
+                foreach (var item in select)
+                {
+                    MProduct c = new MProduct()
+                    {
+                        Name = item.Name,
+                        price = item.price,
+                        Count = item.Count,
+                        discription = item.discription,
+                        MainImage = item.MainImage,
+                        Status = item.Status,
+                        IdColor = item.IdColor,
+                        IdSize = item.IdSize,
+                        IdCategory = item.IdCategory,
+                        discount = item.discount,
+                        Type = item.Type
+                    };
+                    product.Add(c);
+                }
+                return product;
+            }
+            else
+            {
+                return null;
+            }
+        }
+        public List<MProduct> ShowProductType(string Type)
+        {
+            var select = context.Products.Where(c => c.Type == Type).ToList();
+            if (select != null)
+            {
+                List<MProduct> product = new List<MProduct>();
+                foreach (var item in select)
+                {
+
+                    MProduct c = new MProduct()
+                    {
+                        Name = item.Name,
+                        price = item.price,
+                        Count = item.Count,
+                        discription = item.discription,
+                        MainImage = item.MainImage,
+                        Status = item.Status,
+                        IdColor = item.IdColor,
+                        IdSize = item.IdSize,
+                        IdCategory = item.IdCategory,
+                        discount = item.discount,
+                        Type = item.Type
+                    };
+                    product.Add(c);
+                }
+                return product;
+            }
+            else
+            {
+                return null;
+            }
+        }
+
+
     }
 }

@@ -6,5 +6,6 @@ namespace infrastructure.Data.Entities
     {
         public int Id { get; set; }
         public string moreImage { get; set; }
+        public int IdProduct { get; set; }
     }
 }

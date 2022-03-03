@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace infrastructure.Data.Entities
 {
@@ -10,8 +11,8 @@ namespace infrastructure.Data.Entities
         public int Count { get; set; }
         public string discription { get; set; }
         public string MainImage { get; set; }
-        public int IdMoreImage { get; set; }
         public int IdCategory { get; set; }
+        public string MoreImage { get; set; }
         public bool Status { get; set; }
         public int IdColor { get; set; }
         public int IdSize { get; set; }

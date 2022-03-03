@@ -11,6 +11,9 @@ namespace infrastructure.Data.Context
         public DbSet<Color> colors { get; set; }
         public DbSet<Size> Sizes { get; set; }
         public DbSet<MoreImage> MoreImages { get; set; }
+        public DbSet<Slider> Sliders { get; set; }
+        public DbSet<Baner> Baners { get; set; }
+        public DbSet<User> Users { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder db)
         {
             db.UseSqlServer("Data source =. ; initial Catalog = Shop ; integrated Security = true ;");

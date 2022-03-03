@@ -10,6 +10,12 @@ namespace infrastructure.Map
         public AutoMap()
         {
             CreateMap<MCategory,Category>().ReverseMap();
+            CreateMap<MProduct,Product>().ReverseMap();
+            CreateMap<MColor,Color>().ReverseMap();
+            CreateMap<MSize,Size>().ReverseMap();
+            CreateMap<MSlider,Slider>().ReverseMap();
+            CreateMap<MBaner,Baner>().ReverseMap();
+             CreateMap<MUser,User>().ReverseMap();
         }
     }
 }

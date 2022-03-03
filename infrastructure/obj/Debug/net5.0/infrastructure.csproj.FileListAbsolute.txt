@@ -16,21 +16,21 @@ C:\Users\Farshad\Desktop\Shop\infrastructure\obj\Debug\net5.0\infrastructure.gen
 C:\Users\Farshad\Desktop\Shop\infrastructure\bin\Debug\net5.0\core.dll
 C:\Users\Farshad\Desktop\Shop\infrastructure\bin\Debug\net5.0\core.pdb
 C:\Users\Farshad\Desktop\Shop\infrastructure\obj\Debug\net5.0\infrastructure.csproj.CopyComplete
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\infrastructure.deps.json
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\infrastructure.runtimeconfig.json
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\infrastructure.runtimeconfig.dev.json
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\infrastructure.dll
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\ref\infrastructure.dll
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\infrastructure.pdb
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\core.dll
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\core.pdb
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.csproj.AssemblyReference.cache
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.AssemblyInfoInputs.cache
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.AssemblyInfo.cs
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.csproj.CoreCompileInputs.cache
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.csproj.CopyComplete
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.dll
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\ref\infrastructure.dll
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.pdb
-c:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.genruntimeconfig.cache
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\infrastructure.deps.json
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\infrastructure.runtimeconfig.json
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\infrastructure.runtimeconfig.dev.json
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\infrastructure.dll
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\ref\infrastructure.dll
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\infrastructure.pdb
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\core.dll
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\bin\Debug\net5.0\core.pdb
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.AssemblyInfo.cs
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.csproj.CopyComplete
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.dll
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\ref\infrastructure.dll
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.pdb
+C:\Users\Farshad\Desktop\Shop - Copy\infrastructure\obj\Debug\net5.0\infrastructure.genruntimeconfig.cache

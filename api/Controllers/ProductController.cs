@@ -20,60 +20,75 @@ namespace api.Controllers
             iProduct = IProduct;
         }
         [HttpPost]
-        public string AddProduct(MProduct Product)
+        public IActionResult AddProduct(MProduct Product)
         {
             if (ModelState.IsValid)
             {
-                var result = iProduct.AddProduct(Product);
-                if (result)
-                {
-                    return "عملیات با موفقیت انجام شد";
-                }
-                else
-                {
-                    return "خطا";
-                }
-            }
-            else
-            {
-                 return "خطا";
+                iProduct.AddProduct(Product);
+                return Ok("عملیات با موفقیت انجام شد");
+
             }
 
+            return BadRequest();
+
         }
-        
+
         [HttpPost]
-        public string DeleteProduct(int id)
+        public IActionResult DeleteProduct(int id)
         {
             var result = iProduct.DeleteProduct(id);
             if (result)
             {
-                return "عملیات با موفقیت انجام شد";
+                return Ok("عملیات با موفقیت انجام شد");
             }
             else
             {
-                return "این آیدی وجود ندارد";
+                return Ok("این آیدی وجود ندارد!");
             }
         }
 
         [HttpGet]
-        public List<MProduct> ShowActiveStatusProduct()
+        public IActionResult ShowActiveStatusProduct()
         {
-            return iProduct.ShowActiveStatusProduct();
+            return Ok(iProduct.ShowActiveStatusProduct());
         }
 
 
         [HttpPost]
-        public string UpdateProduct(MProduct Product)
+        public IActionResult UpdateProduct(MProduct Product)
         {
-            var result = iProduct.UpdateProduct(Product);
-            if (result)
+            if (ModelState.IsValid)
             {
-                return "عملیات با موفقیت انجام شد";
+                var result = iProduct.UpdateProduct(Product);
+                if (result)
+                {
+                   return Ok("عملیات با موفقیت انجام شد");
+                }
+                else
+                {
+                   return Ok("این آیدی وجود ندارد");
+                }
             }
-            else
-            {
-                return "این آیدی وجود ندارد";
-            }
+            return BadRequest();
         }
+
+        [HttpGet]
+        public IActionResult DetailsProduct(int IdProduct)
+        {
+            return Ok(iProduct.DetailsProduct(IdProduct));
+        }
+
+        [HttpGet]
+        public IActionResult ShowProductCategory(int IdCategory)
+        {
+            return Ok(iProduct.ShowProductCategory(IdCategory));
+        }
+
+        [HttpGet]
+        public IActionResult ShowProductType(string Type)
+        {
+            return Ok(iProduct.ShowProductType(Type));
+        }
+    
     }
 }

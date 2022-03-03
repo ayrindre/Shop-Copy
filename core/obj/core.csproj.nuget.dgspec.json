@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Farshad\\Desktop\\Shop - Copy\\core\\core.csproj": {}
+    "C:\\Users\\Farshad\\Desktop\\Shop - Copy\\core\\core.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Farshad\\Desktop\\Shop - Copy\\core\\core.csproj": {
+    "C:\\Users\\Farshad\\Desktop\\Shop - Copy\\core\\core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Farshad\\Desktop\\Shop - Copy\\core\\core.csproj",
+        "projectUniqueName": "C:\\Users\\Farshad\\Desktop\\Shop - Copy\\core\\core.csproj",
         "projectName": "core",
-        "projectPath": "c:\\Users\\Farshad\\Desktop\\Shop - Copy\\core\\core.csproj",
+        "projectPath": "C:\\Users\\Farshad\\Desktop\\Shop - Copy\\core\\core.csproj",
         "packagesPath": "C:\\Users\\Farshad\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Farshad\\Desktop\\Shop - Copy\\core\\obj\\",
+        "outputPath": "C:\\Users\\Farshad\\Desktop\\Shop - Copy\\core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

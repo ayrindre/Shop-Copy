@@ -15,6 +15,7 @@ using AutoMapper;
 using infrastructure.Data.Context;
 using core.Repository;
 using infrastructure.Repository;
+using infrastructure.Map;
 
 namespace api
 {
@@ -36,10 +37,15 @@ namespace api
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "api", Version = "v1" });
             });
-           services.AddAutoMapper(typeof(Startup));
+           services.AddAutoMapper(typeof(AutoMap));
            services.AddDbContext<Context>();
            services.AddScoped<ICategory,RCategory>();
            services.AddScoped<IProduct,RProduct>();
+           services.AddScoped<IColor,RColor>();
+           services.AddScoped<ISize,RSize>();
+           services.AddScoped<ISlider,RSlider>();
+           services.AddScoped<IBaner,RBaner>();
+           services.AddScoped<IUser,RUser>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

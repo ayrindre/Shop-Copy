@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace core.Domain
@@ -14,13 +15,13 @@ namespace core.Domain
         public int Count { get; set; }
         public string discription { get; set; }
         public string MainImage { get; set; }
-        public int IdMoreImage { get; set; }
 
         [Required(ErrorMessage = "نباید بدون مفدار باشد")]
         public int IdCategory { get; set; }
         public bool Status { get; set; }
         public int IdColor { get; set; }
         public int IdSize { get; set; }
+        public string MoreImage { get; set; }
         public int discount { get; set; }
         public string Type { get; set; }
         
